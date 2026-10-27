@@ -182,6 +182,25 @@ true ,true ,false,false ,true
 true ,true ,false,true ,true
 true ,true ,true ,false ,true
 true ,true ,true ,true ,false
+Q2.
+<img width="1581" height="886" alt="image" src="https://github.com/user-attachments/assets/8b85eb71-5c09-4dbd-bd90-ee5510000a02" />
+I1,I2,I3,I4,O1
+false,false,false,false,true
+false,false,false,true,true
+false,false,true,false,true
+false,false,true,true,false
+false,true,false,false,false
+false,true,false,true,false
+false,true,true,false,true
+false,true,true,true,true
+true,false,false,false,false
+true,false,false,true,true
+true,false,true,false,false
+true,false,true,true,false
+true,true,false,false,true
+true,true,false,true,true
+true,true,true,false,true
+true,true,true,true,true
 
 
 
