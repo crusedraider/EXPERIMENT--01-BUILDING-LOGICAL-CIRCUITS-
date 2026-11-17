@@ -224,8 +224,25 @@ true,true,true,false,true
 true,true,true,true,false
 
 Q4.
+<img width="793" height="528" alt="image" src="https://github.com/user-attachments/assets/24e64d50-d9b9-402d-9420-5e21764ca9c3" />
 
-
+I1,I2,I3,I4,O1
+false,false,false,false,false
+false,false,false,true,false
+false,false,true,false,false
+false,false,true,true,false
+false,true,false,false,true
+false,true,false,true,true
+false,true,true,false,true
+false,true,true,true,true
+true,false,false,false,true
+true,false,false,true,false
+true,false,true,false,false
+true,false,true,true,true
+true,true,false,false,false
+true,true,false,true,false
+true,true,true,false,false
+true,true,true,true,false
 
 
 
