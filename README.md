@@ -203,6 +203,27 @@ true,true,true,false,true
 true,true,true,true,true
 
 Q3.
+<img width="962" height="502" alt="image" src="https://github.com/user-attachments/assets/e3b9d0d9-0ade-4048-8ae9-80c50c39abb6" />
+
+I1,I2,I3,I4,O1
+false,false,false,false,false
+false,false,false,true,false
+false,false,true,false,true
+false,false,true,true,true
+false,true,false,false,true
+false,true,false,true,true
+false,true,true,false,true
+false,true,true,true,true
+true,false,false,false,true
+true,false,false,true,true
+true,false,true,false,true
+true,false,true,true,false
+true,true,false,false,true
+true,true,false,true,true
+true,true,true,false,true
+true,true,true,true,false
+
+Q4.
 
 
 
